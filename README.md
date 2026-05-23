@@ -37,7 +37,7 @@ On paper, any organization can look good. It doesn't stop the breaches, usually 
   1. We want to know that our counterpart is sufficiently placed to be able to influence decisions, and is not just a titular, sub-ordinate role.
   1. We anticipate that you will confirm the independence of the CISO (and their department)
 
-## Essential Cyber Hygeine
+## Essential Cyber Hygiene
   1. We want to know that the basics are in place:
      1. Passwords
         1. No passwords, or a strong (but sensible) password policy
